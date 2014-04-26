@@ -1,0 +1,34 @@
+{
+  "build_revision"     => "8ee7f809504232ae7d6ec765824098f36b9e2d51",
+  "pages_env"          => "dotcom",
+  "versions"           => {
+      "jekyll"         => "1.4.3",
+      "kramdown"       => "1.3.1",
+      "liquid"         => "2.5.5",
+      "maruku"         => "0.7.0",
+      "rdiscount"      => "2.1.7",
+      "redcarpet"      => "2.3.0",
+      "RedCloth"       => "4.2.9",
+      "github-pages"   => "16",
+      "ruby"           => "2.1.0"
+    },
+  "project_title"      => "Srihari Sankar Sahu | Personal site",
+  "project_tagline"    => "Beautiful Websites",
+  "owner_name"         => "Srihari Sankar Sahu",
+  "owner_url"          => "https://github.com/sriharisahu",
+  "owner_gravatar_url" => "https://en.gravatar.com/sriharisahu",
+  "repository_url"     => "https://github.com/sriharisahu.github.io",
+  "repository_nwo"     => "sriharisahu/index",
+  "repository_name"    => "Srihari Sahu",
+  "zip_url"            => "https://github.com/sriharisahu/sriharisahu.github.io/zipball/gh-pages",
+  "tar_url"            => "https://github.com/sriharisahu/sriharisahu.github.io/tarball/gh-pages",
+  "clone_url"          => "https://github.com/sriharisahu/sriharisahu.github.io.git",
+  "releases_url"       => "https://github.com/sriharisahu/sriharisahu.github.ioreleases",
+  "issues_url"         => "https://github.com/sriharisahu/sriharisahu.github.io/issues",
+  "wiki_url"           => nil, # when wiki is disabled, otherwise the URL
+  "language"           => "PHP",
+  "is_user_page"       => true,
+  "is_project_page"    => false,
+  "show_downloads"     => false,
+  "url"                => "http://sriharisahu.github.io/" # (or the CNAME)
+}
