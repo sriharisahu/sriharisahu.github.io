@@ -11,3 +11,5 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 -->
 I am Srihari Sankar Sahu, working as a freelance Full Stack Developer.
+
+![passport_pic](/assets/Srihari_Photo.JPG)
