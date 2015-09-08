@@ -19,5 +19,7 @@ categories: resume
 ![math Certificate](/assets/math.jpg)
 ![rdbms Certificate](/assets/rdbms.jpg)
 
-Verify all the above on [Brain Bench](https://www.brainbench.com/)
+Verify all my certificates on [Brain Bench][:brainbench]
 My Transcript is : 10131336 
+
+[:brainbench]: https://www.brainbench.com

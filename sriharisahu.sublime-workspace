@@ -7,6 +7,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2015-09-07-certs.markdown",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,10 +56,32 @@
 	},
 	"expanded_folders":
 	[
-		"/C/sites/sriharisahu.github.io"
+		"/C/sites/sriharisahu.github.io",
+		"/C/sites/sriharisahu.github.io/_posts",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015/09",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015/09/07"
 	],
 	"file_history":
 	[
+		"/C/sites/sriharisahu.github.io/index.html",
+		"/C/sites/sriharisahu.github.io/contact.md",
+		"/C/sites/sriharisahu.github.io/_posts/2015-09-07-experience.markdown",
+		"/C/sites/sriharisahu.github.io/_posts/2015-09-07-certs.markdown",
+		"/C/sites/sriharisahu.github.io/_drafts/2015-09-07-welcome-to-jekyll.markdown",
+		"/C/sites/sriharisahu.github.io/.gitignore",
+		"/C/sites/sriharisahu.github.io/_config.yml",
+		"/C/sites/sriharisahu.github.io/Gemfile.lock",
+		"/C/sites/sriharisahu.github.io/_sass/_layout.scss",
+		"/C/sites/sriharisahu.github.io/_layouts/default.html",
+		"/C/sites/sriharisahu.github.io/_layouts/page.html",
+		"/C/sites/sriharisahu.github.io/_includes/footer.html",
+		"/C/sites/sriharisahu.github.io/_includes/head.html",
+		"/C/sites/sriharisahu.github.io/_sass/_base.scss",
+		"/C/sites/sriharisahu.github.io/_sass/_syntax-highlighting.scss",
+		"/C/sites/sriharisahu.github.io/_includes/header.html",
+		"/C/sites/sriharisahu.github.io/_site/about/index.html",
+		"/C/sites/sriharisahu.github.io/_layouts/post.html",
 		"/C/sites/keystone/keystone/package.json",
 		"/C/sites/keystone/keystone/keystone.js",
 		"/C/sites/keystone/keystone/.jshintrc",
@@ -58,7 +96,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -72,6 +110,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"table"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -89,18 +128,75 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-09-07-certs.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -133,7 +229,7 @@
 	"project": "sriharisahu.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

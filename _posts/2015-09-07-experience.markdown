@@ -12,6 +12,12 @@ categories: resume
 -	Full Stack developer with end-to-end experience.
 -	Domain knowledge include Retail (online and offline), Logistics and Telecom.
 
+### Domain Knowledge ###
+
+ - 2 years in offline retailing, inventory management, warehouse maangement , logistics and tracking.
+ - 1 year in telecom order provisioning.
+  - 2 years in e-commerce, inventory maangement, payment acceptance, digital goods delivery.
+
 ### Employement History ###
 
 
