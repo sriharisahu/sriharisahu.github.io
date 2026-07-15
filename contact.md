@@ -4,18 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-My Address is:
+I am always open to new conversations about software, consulting, mentoring, and collaboration.
 
-<pre>
-#778/01, 2nd Main Road,
-Chowdeswari Layout, Marahtalli,
-Bangalore, India - 560037
-</pre>
+- Email: <mailto:sriharisahu@outlook.com>
+- GitHub: <https://github.com/sriharisahu>
+- Twitter: <https://twitter.com/srihari_sahu>
 
-My e-mail ids are : 
-
-| Purpose | Mail Id |
-| ------- | ------- |
-| Freelance | <mailto:sriharisahu@shreesoftsolutions.com>|
-| Personal  | <mailto:hunkyhari@gmail.com> |
-| Job Offers  | <mailto:sriharisahu@outlook.com> |
+If you want to discuss a project or simply say hello, feel free to reach out.

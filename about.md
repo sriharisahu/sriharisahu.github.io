@@ -3,11 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!--
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Srihari Sankar Sahu, a software developer with more than 15 years of experience creating reliable web products and helping teams grow through thoughtful engineering practices.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
--->
-I am Srihari Sankar Sahu, working as a freelance Full Stack Developer.
+My work blends product understanding, architectural thinking, and hands-on implementation. I enjoy building maintainable systems and making complex problems feel approachable.

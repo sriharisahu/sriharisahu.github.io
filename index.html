@@ -1,22 +1,108 @@
 ---
 layout: default
+title: Srihari Sankar Sahu
+permalink: /
 ---
 
-<div class="home">
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        </li>
-        <!--div class="post">
-          <article class="post-content">
-          	{{ post.content }}
-          </article>
-        </div-->
-    {% endfor %}
-</ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<section class="hero" id="top">
+  <div class="hero-copy">
+    <p class="eyebrow">Software engineer • mentor • writer</p>
+    <h1>Building thoughtful software for over 15 years.</h1>
+    <p>I help teams ship dependable web experiences, lead technical decisions, and turn complex ideas into practical products.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#contact">Let’s connect</a>
+      <a class="btn btn-secondary" href="#blog">Read the blog</a>
+    </div>
+  </div>
+  <div class="hero-panel">
+    <div class="stat-grid">
+      <div class="stat-card">
+        <strong>15+</strong>
+        <span>years of experience</span>
+      </div>
+      <div class="stat-card">
+        <strong>Full-stack</strong>
+        <span>web engineering</span>
+      </div>
+      <div class="stat-card">
+        <strong>Mentoring</strong>
+        <span>teams and engineers</span>
+      </div>
+    </div>
+  </div>
+</section>
 
-</div>
+<section class="section" id="about">
+  <div class="section-heading">
+    <p class="eyebrow">About</p>
+    <h2>Experienced, hands-on, and curious.</h2>
+  </div>
+  <div class="card-grid">
+    <article class="card">
+      <h3>Who I am</h3>
+      <p>I am Srihari Sankar Sahu, a software developer with a strong background in building modern applications, leading delivery, and creating maintainable systems.</p>
+    </article>
+    <article class="card">
+      <h3>What I do</h3>
+      <p>My work spans product thinking, architecture, implementation, and mentoring. I enjoy turning business goals into elegant and resilient engineering solutions.</p>
+    </article>
+    <article class="card">
+      <h3>How I work</h3>
+      <p>My approach balances pragmatism with long-term maintainability so teams can move quickly without sacrificing quality.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section" id="experience">
+  <div class="section-heading">
+    <p class="eyebrow">Experience</p>
+    <h2>Focused on delivery, growth, and impact.</h2>
+  </div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <h3>Senior software engineer</h3>
+      <p>Leading full-stack development efforts, improving platform reliability, and shaping technical direction for modern web products.</p>
+    </div>
+    <div class="timeline-item">
+      <h3>Product-minded developer</h3>
+      <p>Working closely with stakeholders to translate business requirements into practical, scalable software solutions.</p>
+    </div>
+    <div class="timeline-item">
+      <h3>Mentor and collaborator</h3>
+      <p>Sharing experience, guiding engineers, and contributing to healthier engineering practices across teams.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="blog">
+  <div class="section-heading">
+    <p class="eyebrow">From the blog</p>
+    <h2>Recent writing and observations.</h2>
+  </div>
+  <div class="blog-list">
+    {% for post in site.posts limit:3 %}
+    <article class="post-card">
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+    </article>
+    {% else %}
+    <article class="post-card">
+      <h3>New posts coming soon</h3>
+      <p>This space will soon feature practical notes, lessons learned, and product engineering reflections.</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section" id="contact">
+  <div class="contact-card">
+    <p class="eyebrow">Contact</p>
+    <h2>Let’s talk about your next project.</h2>
+    <p>I’m open to consulting, collaboration, and conversations about building software that lasts.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="mailto:{{ site.email }}">Email me</a>
+      <a class="btn btn-secondary" href="{{ '/contact/' | relative_url }}">Visit contact page</a>
+    </div>
+  </div>
+</section>
