@@ -1,0 +1,13 @@
+# Site settings
+title: Srihari Sankar Sahu
+email: sriharisahu@outlook.com
+description: >
+  Srihari Sankar Sahu is a software engineer with 15 years of experience building modern web products, mentoring teams, and sharing practical engineering insights.
+baseurl: ""
+url: "https://sriharisahu.github.io"
+twitter_username: srihari_sahu
+github_username: sriharisahu
+
+# Build settings
+markdown: kramdown
+permalink: pretty

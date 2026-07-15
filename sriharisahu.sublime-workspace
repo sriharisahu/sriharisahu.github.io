@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2015-09-07-certs.markdown",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/sites/sriharisahu.github.io",
+		"/C/sites/sriharisahu.github.io/_posts",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015/09",
+		"/C/sites/sriharisahu.github.io/_site/resume/2015/09/07"
+	],
+	"file_history":
+	[
+		"/C/sites/sriharisahu.github.io/index.html",
+		"/C/sites/sriharisahu.github.io/contact.md",
+		"/C/sites/sriharisahu.github.io/_posts/2015-09-07-experience.markdown",
+		"/C/sites/sriharisahu.github.io/_posts/2015-09-07-certs.markdown",
+		"/C/sites/sriharisahu.github.io/_drafts/2015-09-07-welcome-to-jekyll.markdown",
+		"/C/sites/sriharisahu.github.io/.gitignore",
+		"/C/sites/sriharisahu.github.io/_config.yml",
+		"/C/sites/sriharisahu.github.io/Gemfile.lock",
+		"/C/sites/sriharisahu.github.io/_sass/_layout.scss",
+		"/C/sites/sriharisahu.github.io/_layouts/default.html",
+		"/C/sites/sriharisahu.github.io/_layouts/page.html",
+		"/C/sites/sriharisahu.github.io/_includes/footer.html",
+		"/C/sites/sriharisahu.github.io/_includes/head.html",
+		"/C/sites/sriharisahu.github.io/_sass/_base.scss",
+		"/C/sites/sriharisahu.github.io/_sass/_syntax-highlighting.scss",
+		"/C/sites/sriharisahu.github.io/_includes/header.html",
+		"/C/sites/sriharisahu.github.io/_site/about/index.html",
+		"/C/sites/sriharisahu.github.io/_layouts/post.html",
+		"/C/sites/keystone/keystone/package.json",
+		"/C/sites/keystone/keystone/keystone.js",
+		"/C/sites/keystone/keystone/.jshintrc",
+		"/C/sites/keystone/keystone/.gitignore",
+		"/C/sites/keystone/keystone/.editorconfig",
+		"/C/sites/keystone/keystone/updates/0.0.1-admins.js",
+		"/C/sites/keystone/keystone/templates/views/blog.jade",
+		"/C/sites/keystone/keystone/routes/index.js",
+		"/C/sites/keystone/keystone/Gruntfile.js",
+		"/C/sites/mhired/Gemfile",
+		"/C/sites/mhired/bin/rails"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-09-07-certs.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sriharisahu.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

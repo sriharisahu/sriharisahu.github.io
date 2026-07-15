@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Projects"
+date:   2015-09-08 08:45:54
+categories: resume projects
+---
+### Frontier Secure Portal ###
+
+<b>Synopsis:</b> This is a E-Commerce Website hosted at [https://ftrsecure.com](https://ftrsecure.com). 
+
+This website is used by Frontier Secure to sell assorted digital products offereings from Frontier Secure and partners.
+The inventory was needed to be changed very frequently and thus there was a need for a CMS. The solution was built with Drupal Commerce.
+
+#### Technology: #### 
+PHP, Drupal 7.35-7.39, Web Services, XML, JSON, jQuery, Bootstrap
+
+#### Team Size: 1 ####
+
+### Responsibilities: ###
+ - Manage the build and deliver all priorites within the 10 days sprints.
+ - Co-operate and co-ordinate with Business Analysts and help them with configuring the various aspects of inventory, content and coupons as per business needs.
