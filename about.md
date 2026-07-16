@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am Srihari Sankar Sahu, a software developer with more than 15 years of experience creating reliable web products and helping teams grow through thoughtful engineering practices.
+I am Srihari Sankar Sahu, a business-minded technology consultant with experience supporting financial analytics, retail operations, SAP-led environments, and practical AI adoption. My work is centered on turning data, process context, and operational reality into stronger business decisions.
 
-My work blends product understanding, architectural thinking, and hands-on implementation. I enjoy building maintainable systems and making complex problems feel approachable.
+Across analytics, growth-oriented operations, and enterprise systems, I focus on connecting strategic thinking with execution. You can also review more of my professional background on [LinkedIn](https://www.linkedin.com/in/sriharisahu).

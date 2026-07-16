@@ -53,3 +53,32 @@ The existing repository already contains a functional Jekyll site, so the most e
 1. Run Jekyll locally and confirm the site builds successfully.
 2. Review the homepage, navigation, and blog listing in a browser.
 3. Confirm all internal links, social links, and contact details work as intended.
+
+
+## Update 16 July @ 10:00
+## Plan: Reframe the Jekyll site as a commercial AI consulting profile
+
+The current site still reads as a general software-engineering profile, so the next step is to shift the messaging toward a business-facing AI consulting identity while keeping the existing Jekyll structure intact.
+
+### Steps
+1. Refresh the homepage messaging to emphasize AI consulting, business analytics, operations strategy, and practical decision support.
+2. Update the About and Contact pages so they reinforce the consulting profile and include a clear LinkedIn link.
+3. Add the LinkedIn profile link in the shared footer and ensure the site metadata reflects the new positioning.
+4. Cross-reference relevant experience areas such as financial analytics, retail/Amazon FBA, SAP, and operational improvement where appropriate.
+5. Build the site locally with Jekyll and verify that the updated content renders correctly.
+
+### Relevant files
+- [index.html](index.html) — homepage hero, about, experience, and contact sections.
+- [about.md](about.md) — profile page copy and professional positioning.
+- [contact.md](contact.md) — business-contact messaging and links.
+- [_includes/footer.html](_includes/footer.html) — shared footer links.
+- [_config.yml](_config.yml) — site title, description, and metadata.
+
+### Verification
+1. Run a local Jekyll build and confirm it completes without errors.
+2. Review the generated pages to ensure the new messaging, LinkedIn link, and experience references are visible.
+3. Check that the footer and contact pages all expose the same professional links.
+
+### Scope
+- Included: content rewrite, LinkedIn integration, experience cross-references, and local build verification.
+- Excluded: redesigning the visual theme, adding new sections beyond the existing structure, or changing deployment configuration.
