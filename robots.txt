@@ -1,0 +1,4 @@
+textUser-agent: *
+Allow: /
+
+Sitemap: https://sriharisahu.github.io

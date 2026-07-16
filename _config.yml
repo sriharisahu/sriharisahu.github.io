@@ -2,12 +2,20 @@
 title: Srihari Sankar Sahu
 email: sriharisahu@outlook.com
 description: >
-  Srihari Sankar Sahu is a business-minded AI consulting profile focused on analytics, operations strategy, SAP-aware decision support, and practical AI adoption.
+  Srihari Sankar Sahu is a business-minded AI consulting professional focused on analytics, operations strategy, SAP-aware decision support, and practical AI adoption.
 baseurl: ""
 url: "https://sriharisahu.github.io"
 twitter_username: srihari_sahu
 github_username: sriharisahu
 
+sass:
+  style: compressed
+
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
